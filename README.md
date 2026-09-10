@@ -57,10 +57,61 @@ I prefer building automation that solves real operational problems — reducing 
 
 I'm currently expanding my work around:
 
-```text
-Ansible / AWX
-Infrastructure as Code
-Kubernetes
-SRE
-AIOps
-AI-assisted Infrastructure Automation
+- Ansible / AWX
+- Infrastructure as Code
+- Kubernetes
+- SRE
+- AIOps
+- AI-assisted Infrastructure Automation
+
+I'm also pursuing postgraduate studies in **AIOps and AI in Cloud Engineering**, exploring how AI can complement traditional infrastructure engineering and operations.
+
+---
+
+## 🧪 Projects
+
+Some of the projects I'm building and documenting here include:
+
+### 🔹 Infrastructure Automation
+Ansible playbooks and workflows focused on repeatable infrastructure operations, validation, remediation, and post-change verification.
+
+### 🔹 Linux & Systems Automation
+Automation and operational tooling for Linux and AIX environments, including system validation, patching workflows, and infrastructure checks.
+
+### 🔹 Cloud Automation
+Projects exploring API-driven infrastructure operations and cloud resource management.
+
+### 🔹 AIOps Lab
+Experiments combining infrastructure data, automation, observability, and AI to explore practical AIOps use cases.
+
+> More projects are being added as I turn real infrastructure scenarios into reusable labs and automation examples.
+
+---
+
+## 💡 Engineering philosophy
+
+**Automate what repeats.**  
+**Document what matters.**  
+**Validate before changing.**  
+**Always have a rollback plan.**
+
+I like infrastructure that is **predictable, observable, documented, and recoverable**.
+
+---
+
+## 📚 Currently learning
+
+- Advanced Ansible & AWX
+- Infrastructure as Code
+- Kubernetes
+- Site Reliability Engineering
+- AIOps
+- AI-assisted engineering workflows
+
+---
+
+## 🤝 Let's connect
+
+I'm interested in **Infrastructure Engineering, SRE, Platform Engineering, DevOps, Infrastructure Automation, and AIOps**.
+
+Feel free to explore my repositories and follow along as I add more infrastructure labs and automation projects.
